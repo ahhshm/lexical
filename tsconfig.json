@@ -201,5 +201,5 @@
       "shared/useLayoutEffect": ["packages/shared/src/useLayoutEffect.ts"]
     }
   },
-  "exclude": ["node_modules/**/*", "packages/playwright-core/**/*"]
+  "exclude": ["node_modules/**/*"]
 }
